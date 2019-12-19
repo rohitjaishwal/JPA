@@ -1,4 +1,4 @@
-package com.dev.jpa;
+package com.dev.jpa.controller;
 
 import java.util.ArrayList;
 import java.util.List;
